@@ -63,24 +63,15 @@ Atualmente expandindo para cybersecurity enquanto construo aplicações full-sta
 
 ---
 
+<!--
 ## Projetos
 
-<!--
+
   TEMPLATE — duplique o bloco abaixo para cada novo projeto.
   Descomente, preencha e remova este comentário quando publicar.
 -->
 
-### [Pulse Chat](https://github.com/i-barbosa/pulse-chat)
-Aplicação de chat em tempo real com salas dinâmicas, autenticação JWT e Socket.io. Em desenvolvimento...
 
-`Node.js` `Express` `Socket.io` `React` `MongoDB` `JWT`
-
-### [Controle de Gastos Residencial](https://github.com/i-barbosa/REPO)
-Sistema fullstack para gestão e controle financeiro residencial desenvolvido em C# (.NET 10 Minimal API) e React com TypeScript.
-
-`aspnet-core` `csharp` `dotnet` `sqlite` `tailwind` `typescript` `react`
-
----
 
 <!--
 ### 🔒 [Nome do Projeto](https://github.com/i-barbosa/REPO)
