@@ -34,6 +34,17 @@ meta:    Tornar-me Desenvolvedor Full-Stack
 Vivência em administração Linux, redes e sistemas operacionais no Exército Brasileiro.
 Atualmente expandindo para cybersecurity enquanto construo aplicações full-stack.
 
+## ├── Trajetória
+
+**Comunicações Militares — Exército Brasileiro**
+Administração Linux, redes e sistemas operacionais em ambiente militar.
+
+**🏆 Hackathon Tech Summit FICR 2026 — 1º lugar**
+[LarSeguro](https://github.com/i-barbosa/LarSeguro) — plataforma inteligente de avaliação da moradia do idoso, com análise de risco por foto e verificação de dados no ATHIS.
+
+**🏆 Hackathon HackEdu FPR 2026 — 1º lugar**
+[EduCria](https://github.com/i-barbosa/EduCria) — plataforma adaptativa de acompanhamento de aprendizagem para a rede municipal do Recife.
+
 ## ├── Stack Técnica
 
 **Linguagens**
