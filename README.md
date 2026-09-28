@@ -2,7 +2,7 @@
 
 # Olá! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Eu sou o Ítalo!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=0A66C2&width=520&lines=Desenvolvedor+Full-Stack;Entusiasta+de+Cybersecurity;Ex-Militar+Comunicante)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=0A66C2&width=600&lines=Desenvolvedor+Full-Stack;Entusiasta+de+Cybersecurity;Ex-Militar+Comunicante)](https://git.io/typing-svg)
 
 ---
 
@@ -43,7 +43,6 @@ Atualmente expandindo para cybersecurity enquanto construo aplicações full-sta
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](#)
 
 **Frontend**
 
@@ -86,11 +85,19 @@ Aplicação de chat em tempo real com salas dinâmicas, autenticação JWT e Soc
 
 `Node.js` `Express` `Socket.io` `React` `MongoDB` `JWT`
 
-### [Controle de Gastos Residencial](https://github.com/i-barbosa?tab=repositories)
+### [Controle de Gastos Residencial](https://github.com/i-barbosa/controle-gastos-cs)
 
 Sistema fullstack para gestão e controle financeiro residencial desenvolvido em C# (.NET 10 Minimal API) e React com TypeScript.
 
 `aspnet-core` `csharp` `dotnet` `sqlite` `tailwind` `typescript` `react`
+
+### [EduCria](https://github.com/i-barbosa/EduCria) 🏆 1º lugar - Hackathon HackEdu FPR 2026
+
+Plataforma adaptativa de acompanhamento de aprendizagem com atividades coletivas para a rede municipal do Recife.
+
+### [LarSeguro](https://github.com/i-barbosa/LarSeguro) 🏆 1º lugar - Hackathon Tech Summit FICR 2026
+
+Plataforma inteligente de avaliação da moradia do idoso. IA analisa riscos por foto, gera score com 5 pilares e verifica dados no ATHIS.
 
 ---
 
