@@ -105,8 +105,7 @@ Aberto a oportunidades em Desenvolvimento Full-Stack e Cybersecurity.
 
 ## ├── Atividade
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=i-barbosa&show_icons=true&theme=dark&icon_color=808080&border_color=1f1f1f)](https://github.com/i-barbosa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=i-barbosa&theme=dark&layout=compact&border_color=1f1f1f&langs_count=6)](https://github.com/i-barbosa)
+![Metrics](https://raw.githubusercontent.com/i-barbosa/i-barbosa/main/metrics.svg)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/i-barbosa/i-barbosa/output/github-contribution-grid-snake.svg)
 
